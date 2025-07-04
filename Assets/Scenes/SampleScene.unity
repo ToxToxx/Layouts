@@ -1542,7 +1542,7 @@ GameObject:
   - component: {fileID: 1039341599}
   - component: {fileID: 1039341598}
   m_Layer: 5
-  m_Name: HorizontalLGWithGrid (1)
+  m_Name: HorizontalLGDynamicText
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
